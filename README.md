@@ -7,6 +7,7 @@
 <img width="1920" height="1200" alt="Cuplikan layar 2026-09-27 211114" src="https://github.com/user-attachments/assets/0bb91e4c-1239-4130-8404-51a02282b943" />
 
 **Soal praktikum 6**
+
 soal no 1
 Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.13.0:compile (default-compile) on project p02-perpustakaan-mini: Compilation failure
 id/ac/uniska/pbo2/p02/AplikasiPerpustakaan.java:[17,13] id.ac.uniska.pbo2.p02.Koleksi is abstract; cannot be instantiated

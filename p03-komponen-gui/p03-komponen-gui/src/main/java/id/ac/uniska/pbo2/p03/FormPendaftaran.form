@@ -151,6 +151,9 @@
       </Properties>
     </Component>
     <Component class="javax.swing.JTextField" name="namaField">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="namaFieldActionPerformed"/>
+      </Events>
     </Component>
     <Component class="javax.swing.JTextField" name="npmField">
       <Events>
@@ -198,6 +201,9 @@
       <Properties>
         <Property name="text" type="java.lang.String" value="Java"/>
       </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="javaCheckActionPerformed"/>
+      </Events>
     </Component>
     <Component class="javax.swing.JCheckBox" name="pythonCheck">
       <Properties>

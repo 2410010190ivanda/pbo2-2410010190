@@ -72,6 +72,8 @@ import javax.swing.JOptionPane;
 
         minatLabel.setText("Minat");
 
+        namaField.addActionListener(this::namaFieldActionPerformed);
+
         npmField.addActionListener(this::npmFieldActionPerformed);
 
         prodiCombo.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Teknik Informatika", "Sistem Informasi", "Manajemen Informatika" }));
@@ -86,6 +88,7 @@ import javax.swing.JOptionPane;
         lakiRadio.addActionListener(this::lakiRadioActionPerformed);
 
         javaCheck.setText("Java");
+        javaCheck.addActionListener(this::javaCheckActionPerformed);
 
         pythonCheck.setText("Python");
         pythonCheck.addActionListener(this::pythonCheckActionPerformed);
@@ -200,10 +203,18 @@ import javax.swing.JOptionPane;
         gantiTema(temaToggle.isSelected());        // TODO add your handling code here:
     }//GEN-LAST:event_temaToggleActionPerformed
 
-    private void daftarButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_daftarButtonActionPerformed
+    private void namaFieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_namaFieldActionPerformed
+                // TODO add your handling code here:
+    }//GEN-LAST:event_namaFieldActionPerformed
+
+    private void javaCheckActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_javaCheckActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_javaCheckActionPerformed
+
+    private void daftarButtonActionPerformed(java.awt.event.ActionEvent evt) {                                             
         tampilkanRingkasan();
-    //GEN-LAST:event_daftarButtonActionPerformed        // TODO add your handling code here:
-    }//GEN-LAST:event_daftarButtonActionPerformed
+                                                                                            
+    }                                            
 
     /**
      * @param args the command line arguments

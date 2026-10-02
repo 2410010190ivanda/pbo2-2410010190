@@ -246,7 +246,7 @@ private void tampilkanRingkasan() {
         String pesan = "Nama: " + pemesanField.getText()
                 + "\nNomor: " + nomorField.getText()
                 + "\nKota tujuan: " + kotaCombo.getSelectedItem()
-                + "\nJenis Kelamin: " + kelas
+                + "\nKelas: " + kelas
                 + "\nfasilitasTambahan: " + (fasilitasTambahan.isEmpty() ? "-" : String.join(", ", fasilitasTambahan))
                 + "\ncatatan: " + catatanArea.getText()
                 ;

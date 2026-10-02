@@ -30,7 +30,7 @@ Akan muncul pemberitahuan bahwa "judul tidak boleh kosong" mengikuti aturan yang
 
 Soal no 4
 Aturan yang dilanggar adalah enkapsulasi, karena status menjadi bisa diubah langsung dari luar class. 
-(Untuk jawaban soal saya meminta AI untuk memberikan penjelasan yg lebih rinci agar saya lebih bisa memahaminya, lalu saya membuat kesimpulan saya sendiri)
+
 
 
 **Tangkapan layar P01**

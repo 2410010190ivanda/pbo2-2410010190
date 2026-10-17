@@ -1,4 +1,5 @@
-*EKSPERIMEN PRAKTIKUM 2*
+**EKSPERIMEN PRAKTIKUM 2**
+
 Pada flowPanel, ubah Alignment layout menjadi Center, lalu kecilkan jendela. Apa yang berubah? Baris
 mana di initComponents() yang ikut berubah?
 2. Pada gridPanel, ubah Rows menjadi 0 dan Columns menjadi 2. Berapa baris yang terbentuk dan mengapa?

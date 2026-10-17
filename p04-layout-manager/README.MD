@@ -7,7 +7,7 @@ mana di initComponents() yang ikut berubah?
 tinggi tombol. Bagaimana lebar tombol berubah? Tambahkan juga Vertical Strut dari kategori Swing Fillers di
 antara tombol.
 
-**jAWAB :**
+**JAWAB :**
 1. Komponen berubah menjadi ke tengah dan saat diperkecil komponen tetap berada di tengah. Baris yang berubah adalah setAlignment(FlowLayout.CENTER)
 2. komponen akan tersusun dalam 2 kolom dan 5 baris karena terdapat 9 komponen
 3. lebar tombol menjadi menyesuaikan ruang yang tersedia hingga batas maksimum. Penambahan Vertical Strut membuat jarak vertikal antar tombol menjadi lebih renggang.

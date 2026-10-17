@@ -25,6 +25,10 @@ mana yang rusak lebih dulu?
 3. Yang rusak adalah kolom isi form dan tombol panel, karena saat jendela diperkeci kolom menjadi sempit dan posisi tombol tidak beraturan
 
 **TANGKAPAN LAYAR**
+<img width="960" height="600" alt="Cuplikan layar 2026-10-18 033206" src="https://github.com/user-attachments/assets/de202cc5-b591-44b8-9b9f-6a7cd1511b08" />
+
+<img width="960" height="600" alt="Cuplikan layar 2026-10-18 033222" src="https://github.com/user-attachments/assets/449fc674-37c4-4046-9a38-b04bb1e1f09c" />
+
 
 
 

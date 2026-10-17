@@ -75,6 +75,7 @@ Saran : Perbaiki pengaturan tata letak agar form tetap rapi dan proporsional ket
 **deklarasi AI :**
 
 Saya menggunakan AI untuk mengetahui cara membuat tabel di README.md
+
 prompt :bagaimana cara membuat tabel di readme
 
 jawaban AI :Contoh membuat tabel di README.md:

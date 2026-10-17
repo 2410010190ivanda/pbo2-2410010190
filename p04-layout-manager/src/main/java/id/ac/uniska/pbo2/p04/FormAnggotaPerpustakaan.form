@@ -316,9 +316,9 @@
                 <Property name="text" type="java.lang.String" value="Batal"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="simpanButton">
+            <Component class="javax.swing.JButton" name="daftarButton">
               <Properties>
-                <Property name="text" type="java.lang.String" value="Simpan"/>
+                <Property name="text" type="java.lang.String" value="Daftar"/>
               </Properties>
             </Component>
           </SubComponents>

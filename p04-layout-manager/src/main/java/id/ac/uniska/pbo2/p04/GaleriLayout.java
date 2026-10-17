@@ -125,7 +125,7 @@ setLocationRelativeTo(null);
         layoutTab.addTab("FlowLayout", flowPanel);
 
         gridPanel.setBorder(javax.swing.BorderFactory.createEmptyBorder(12, 12, 12, 12));
-        gridPanel.setLayout(new java.awt.GridLayout(8, 3, 3, 8));
+        gridPanel.setLayout(new java.awt.GridLayout(8, 0, 3, 8));
 
         satuButton.setText("1");
         gridPanel.add(satuButton);

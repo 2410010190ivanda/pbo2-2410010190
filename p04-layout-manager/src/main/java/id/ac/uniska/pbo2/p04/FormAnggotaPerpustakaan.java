@@ -64,7 +64,7 @@ public class FormAnggotaPerpustakaan extends javax.swing.JFrame {
         jCheckBox1 = new javax.swing.JCheckBox();
         tombolPanel = new javax.swing.JPanel();
         batalButton = new javax.swing.JButton();
-        simpanButton = new javax.swing.JButton();
+        daftarButton = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -250,8 +250,8 @@ public class FormAnggotaPerpustakaan extends javax.swing.JFrame {
         batalButton.setText("Batal");
         tombolPanel.add(batalButton);
 
-        simpanButton.setText("Simpan");
-        tombolPanel.add(simpanButton);
+        daftarButton.setText("Daftar");
+        tombolPanel.add(daftarButton);
 
         isiPanel.add(tombolPanel, java.awt.BorderLayout.PAGE_END);
 
@@ -278,6 +278,7 @@ java.awt.EventQueue.invokeLater(() -> new FormAnggotaPerpustakaan().setVisible(t
     private javax.swing.JLabel alamatLabel;
     private javax.swing.JTextArea alamatTextArea;
     private javax.swing.JButton batalButton;
+    private javax.swing.JButton daftarButton;
     private javax.swing.JTextField emailField;
     private javax.swing.JLabel emailLabel;
     private javax.swing.JPanel formPanel;
@@ -302,7 +303,6 @@ java.awt.EventQueue.invokeLater(() -> new FormAnggotaPerpustakaan().setVisible(t
     private javax.swing.JLabel nomorLabel;
     private javax.swing.JTextField npmField;
     private javax.swing.JLabel npmLabel;
-    private javax.swing.JButton simpanButton;
     private javax.swing.JPanel tombolPanel;
     // End of variables declaration//GEN-END:variables
 }

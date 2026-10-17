@@ -24,7 +24,7 @@ mana yang rusak lebih dulu?
 2. Form yang awalnya berada di bagian atas akan berpindah ke tengah area `isiPanel` ketika jendela ditinggikan.
 3. Yang rusak adalah kolom isi form dan tombol panel, karena saat jendela diperkeci kolom menjadi sempit dan posisi tombol tidak beraturan
 
-** TANGKAPAN LAYAR**
+**TANGKAPAN LAYAR**
 
 
 

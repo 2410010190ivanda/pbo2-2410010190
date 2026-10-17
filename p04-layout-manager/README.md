@@ -47,6 +47,8 @@ Navigator
 
 <img width="280" height="443" alt="image" src="https://github.com/user-attachments/assets/356ea84f-a62e-4f67-b9d5-6f47b5eb1b82" />
 
+
+**TABEL PENILAIAN DARI TEMAN**
 | No | Pemeriksaan | Ya atau Belum |
 |:--:|---|:--:|
 | 1 | Label singkat, jelas, dan sejajar | Ya |
@@ -59,6 +61,15 @@ Navigator
 | 8 | Tampilan dibuat dengan JFrame Form dan layout manager, bukan Null Layout atau Absolute Layout | Ya |
 
 Saran : Perbaiki pengaturan tata letak agar form tetap rapi dan proporsional ketika ukuran jendela diubah, terutama untuk mengurangi ruang kosong yang berlebihan saat jendela dipanjangkan.
+
+**TABEL RANCANGAN**
+| Bagian | Panel | Layout |
+|---|---|---|
+| Jendela | JFrame | BorderLayout |
+| Header | headerPanel | BoxLayout |
+| Isi | isiPanel | borderLayout |
+| Form | formPanel | gridBagLayout |
+| Tombol | tombolPanel | FlowLayout |
 
 
 

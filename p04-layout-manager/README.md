@@ -72,4 +72,33 @@ Saran : Perbaiki pengaturan tata letak agar form tetap rapi dan proporsional ket
 | Tombol | tombolPanel | FlowLayout |
 
 
+**deklarasi AI :**
+
+Saya menggunakan AI untuk mengetahui cara membuat tabel di README.md
+prompt :bagaimana cara membuat tabel di readme
+jawaban AI :Contoh membuat tabel di README.md:
+
+```markdown
+| Nama | Umur |
+|---|---|
+| Andi | 20 |
+| Budi | 21 |
+```
+
+Hasilnya:
+
+| Nama | Umur |
+| ---- | ---- |
+| Andi | 20   |
+| Budi | 21   |
+
+Cara membuatnya:
+
+1. Buka file `README.md` di GitHub.
+2. Klik ikon pensil untuk mengedit.
+3. Masukkan kode Markdown di atas.
+4. Klik Preview untuk melihat hasilnya.
+5. Klik Commit changes untuk menyimpan.
+
+
 

@@ -76,6 +76,9 @@
           <SubComponents>
             <Component class="javax.swing.JLabel" name="namaLabel">
               <Properties>
+                <Property name="labelFor" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="namaField"/>
+                </Property>
                 <Property name="text" type="java.lang.String" value="Nama lengkap"/>
               </Properties>
               <Constraints>
@@ -96,6 +99,9 @@
             </Component>
             <Component class="javax.swing.JLabel" name="npmLabel">
               <Properties>
+                <Property name="labelFor" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="npmField"/>
+                </Property>
                 <Property name="text" type="java.lang.String" value="NPM"/>
               </Properties>
               <Constraints>
@@ -121,7 +127,7 @@
                 </Constraint>
               </Constraints>
             </Component>
-            <Component class="javax.swing.JComboBox" name="jComboBox1">
+            <Component class="javax.swing.JComboBox" name="ProdiCombo">
               <Properties>
                 <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
                   <StringArray count="3">
@@ -150,7 +156,7 @@
                 </Constraint>
               </Constraints>
             </Component>
-            <Component class="javax.swing.JRadioButton" name="jRadioButton1">
+            <Component class="javax.swing.JRadioButton" name="mahasiswaRadio">
               <Properties>
                 <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
                   <ComponentRef name="jenisGroup"/>
@@ -163,7 +169,7 @@
                 </Constraint>
               </Constraints>
             </Component>
-            <Component class="javax.swing.JRadioButton" name="jRadioButton2">
+            <Component class="javax.swing.JRadioButton" name="dosenRadio">
               <Properties>
                 <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
                   <ComponentRef name="jenisGroup"/>
@@ -176,7 +182,7 @@
                 </Constraint>
               </Constraints>
             </Component>
-            <Component class="javax.swing.JRadioButton" name="jRadioButton3">
+            <Component class="javax.swing.JRadioButton" name="umumRadio">
               <Properties>
                 <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
                   <ComponentRef name="jenisGroup"/>
@@ -217,6 +223,9 @@
             </Component>
             <Component class="javax.swing.JLabel" name="emailLabel">
               <Properties>
+                <Property name="labelFor" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="emailField"/>
+                </Property>
                 <Property name="text" type="java.lang.String" value="Email"/>
               </Properties>
               <Constraints>
@@ -234,6 +243,9 @@
             </Component>
             <Component class="javax.swing.JLabel" name="nomorLabel">
               <Properties>
+                <Property name="labelFor" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="hpField"/>
+                </Property>
                 <Property name="text" type="java.lang.String" value="Nomor HP"/>
               </Properties>
               <Constraints>
@@ -251,6 +263,9 @@
             </Component>
             <Component class="javax.swing.JLabel" name="alamatLabel">
               <Properties>
+                <Property name="labelFor" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="alamatTextArea"/>
+                </Property>
                 <Property name="text" type="java.lang.String" value="Alamat"/>
               </Properties>
               <Constraints>

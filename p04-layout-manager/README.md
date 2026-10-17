@@ -29,6 +29,10 @@ mana yang rusak lebih dulu?
 
 <img width="960" height="600" alt="Cuplikan layar 2026-10-18 033222" src="https://github.com/user-attachments/assets/449fc674-37c4-4046-9a38-b04bb1e1f09c" />
 
+Navigator
+<img width="280" height="443" alt="image" src="https://github.com/user-attachments/assets/356ea84f-a62e-4f67-b9d5-6f47b5eb1b82" />
+
+
 
 
 

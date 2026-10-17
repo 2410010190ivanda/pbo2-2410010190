@@ -24,6 +24,20 @@ mana yang rusak lebih dulu?
 2. Form yang awalnya berada di bagian atas akan berpindah ke tengah area `isiPanel` ketika jendela ditinggikan.
 3. Yang rusak adalah kolom isi form dan tombol panel, karena saat jendela diperkeci kolom menjadi sempit dan posisi tombol tidak beraturan
 
+**PERTANYAAN REFLEKSI**
+1. Mengapa Null Layout dan Absolute Layout sebaiknya dihindari?
+2. Jelaskan perbedaan perilaku FlowLayout dan GridLayout saat jendela dilebarkan.
+3. Apa fungsi Weight X dan Fill pada constraint GridBagLayout?
+4. Mengapa formPanel dibungkus isiPanel dan diletakkan di North?
+
+**JAWAB :**
+1. karena posisi komponen diatur manual, sehingga tampilan bisa berantakan saat ukuran jendela berubah
+2. FlowLayout menyusun komponen secara berurutan, sedangkan GridLayout menyusun komponen dalam baris dan kolom dengan ukuran yang sama
+3. Weight X mengatur pembagian ruang tambahan secara horizontal, sedangkan Fill mengatur apakah komponen memenuhi ruang yang tersedia
+4. formPanel dibungkus isiPanel dan diletakkan di North agar bagian form berada di atas dan lebih mudah diatur
+
+
+
 **TANGKAPAN LAYAR**
 <img width="960" height="600" alt="Cuplikan layar 2026-10-18 033206" src="https://github.com/user-attachments/assets/de202cc5-b591-44b8-9b9f-6a7cd1511b08" />
 

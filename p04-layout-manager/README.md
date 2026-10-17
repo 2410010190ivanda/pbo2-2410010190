@@ -48,6 +48,12 @@ Navigator
 <img width="280" height="443" alt="image" src="https://github.com/user-attachments/assets/356ea84f-a62e-4f67-b9d5-6f47b5eb1b82" />
 
 
+
+**SKETSA FORM**
+
+<img width="848" height="1280" alt="WhatsApp Image 2026-10-18 at 03 43 11" src="https://github.com/user-attachments/assets/813c2476-b65c-4d34-b457-45329116ee73" />
+
+
 **TABEL PENILAIAN DARI TEMAN**
 | No | Pemeriksaan | Ya atau Belum |
 |:--:|---|:--:|

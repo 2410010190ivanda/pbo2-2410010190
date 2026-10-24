@@ -7,10 +7,21 @@
 <img width="959" height="564" alt="image" src="https://github.com/user-attachments/assets/149182d5-35a4-4050-8371-9d9569230637" />
 <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/8c740dc8-7f8d-46b2-8ff0-3fbd2fb3564c" />
 
+**PETA EVENT**
+| No  | Sumber Event | Jenis Event | Listener       | Method Handler                | Aksi                                                      |
+| --- | ------------ | ----------- | -------------- | ----------------------------- | --------------------------------------------------------- |
+| 1   | npmField     | KeyEvent    | KeyListener    | npmFieldKeyReleased()         | Menghitung jumlah karakter NPM.                           |
+| 2   | setujuCheck  | ItemEvent   | ItemListener   | setujuCheckItemStateChanged() | Mengaktifkan atau menonaktifkan tombol Daftar.            |
+| 3   | batalButton  | ActionEvent | ActionListener | batalButtonActionPerformed()  | Mengosongkan formulir dan memindahkan fokus ke kolom NPM. |
+| 4   | daftarButton | ActionEvent | ActionListener | daftarButtonActionPerformed() | Menampilkan ringkasan data anggota.                       |
+| 5   | JFrame       | WindowEvent | WindowAdapter  | formWindowClosing()           | Menampilkan konfirmasi sebelum keluar dari aplikasi.      |
+
+
+
 
 **TABEL PENGAMATAN PRAKTIKUM 2**
 | No | Tindakan                                  | Event yang Tercatat                                           |
-| -: | ----------------------------------------- | ------------------------------------------------------------- |
+|----| ----------------------------------------- | ------------------------------------------------------------- |
 |  1 | Arahkan kursor ke tombol, lalu jauhkan    | Kursor masuk ke tombol, kursor keluar dari tombol             |
 |  2 | Klik tombol Klik Saya                     | Tombol diklik                                                 |
 |  3 | Centang lalu hapus centang Aktifkan Fitur | Kotak dicentang, centang dihapus                              |

@@ -96,7 +96,7 @@ setLocationRelativeTo(null);
         daftarButton = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Pendaftaran Anggota");
+        setTitle("Pendaftaran Anggota Perpustakaan");
 
         headerPanel.setLayout(new javax.swing.BoxLayout(headerPanel, javax.swing.BoxLayout.Y_AXIS));
 

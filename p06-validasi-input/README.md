@@ -1,0 +1,17 @@
+**TANGKAPAN LAYAR FORM PADA BAGIAN KESALAHAN**
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/5bc0ed80-d861-4107-b876-383676c98516" />
+**TANGKAPAN LAYAR PADA BAGIAN NAVIGATOR**
+<img width="288" height="441" alt="image" src="https://github.com/user-attachments/assets/9eb57670-5747-4804-8759-97f18251df32" />
+
+**EKSPERIMEN PRAKTIKUM 4**
+1. Ketik huruf pada isian NPM. Apa yang terjadi dan baris mana di npmFieldKeyTyped yang menyebabkannya?
+2. Isi email dengan siti@, lalu tekan Tab. Kapan pesan kesalahan muncul?
+3. Klik isian Nama tanpa mengetik, lalu tekan Tab. Mengapa tidak ada pesan kesalahan?
+4. Centang persetujuan, lalu klik Daftar dengan form kosong. Isian mana yang mendapat fokus?
+5. Tekan tombol Alt bersama huruf N. Isian mana yang mendapat fokus, dan properti apa yang mengaturnya?
+6. Isi beberapa isian, lalu klik Batal dan pilih No. Apakah data tetap ada?
+
+JAWAB :
+
+1. Huruf tidak dapat dimasukkan, karena NPM hanya menerima angka.
+2. 

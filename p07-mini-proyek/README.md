@@ -1,4 +1,4 @@
-<img width="1837" height="523" alt="image" src="https://github.com/user-attachments/assets/364c5ba7-c1c7-4f79-b9de-6dbae4c1a4ad" />**LINK VIDEO DEMO**
+**LINK VIDEO DEMO**
 
 https://youtu.be/ETUMipt3ABw?si=QkL_jzChD6nQqLS_
 

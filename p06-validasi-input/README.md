@@ -2,6 +2,7 @@
 <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/5bc0ed80-d861-4107-b876-383676c98516" />
 
 **TANGKAPAN LAYAR PADA BAGIAN NAVIGATOR**
+
 <img width="288" height="441" alt="image" src="https://github.com/user-attachments/assets/9eb57670-5747-4804-8759-97f18251df32" />
 
 **EKSPERIMEN PRAKTIKUM 4**

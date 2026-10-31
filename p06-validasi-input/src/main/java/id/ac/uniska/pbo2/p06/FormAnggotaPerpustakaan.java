@@ -212,6 +212,8 @@ setLocationRelativeTo(null);
         gridBagConstraints.insets = new java.awt.Insets(4, 0, 4, 0);
         formPanel.add(prodiCombo, gridBagConstraints);
 
+        anggotaLabel.setDisplayedMnemonic('J');
+        anggotaLabel.setLabelFor(mahasiswaRadio);
         anggotaLabel.setText("Jenis anggota");
         gridBagConstraints = new java.awt.GridBagConstraints();
         gridBagConstraints.gridx = 0;

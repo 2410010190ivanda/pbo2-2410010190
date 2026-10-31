@@ -86,6 +86,7 @@
           <SubComponents>
             <Component class="javax.swing.JLabel" name="namaLabel">
               <Properties>
+                <Property name="displayedMnemonic" type="int" value="78"/>
                 <Property name="labelFor" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
                   <ComponentRef name="namaField"/>
                 </Property>
@@ -111,6 +112,7 @@
             </Component>
             <Component class="javax.swing.JLabel" name="npmLabel">
               <Properties>
+                <Property name="displayedMnemonic" type="int" value="80"/>
                 <Property name="labelFor" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
                   <ComponentRef name="npmField"/>
                 </Property>
@@ -139,6 +141,7 @@
             </Component>
             <Component class="javax.swing.JLabel" name="prodiLabel">
               <Properties>
+                <Property name="displayedMnemonic" type="int" value="82"/>
                 <Property name="labelFor" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
                   <ComponentRef name="prodiCombo"/>
                 </Property>
@@ -250,6 +253,7 @@
             </Component>
             <Component class="javax.swing.JLabel" name="emailLabel">
               <Properties>
+                <Property name="displayedMnemonic" type="int" value="69"/>
                 <Property name="labelFor" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
                   <ComponentRef name="emailField"/>
                 </Property>
@@ -273,6 +277,7 @@
             </Component>
             <Component class="javax.swing.JLabel" name="nomorLabel">
               <Properties>
+                <Property name="displayedMnemonic" type="int" value="72"/>
                 <Property name="labelFor" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
                   <ComponentRef name="hpField"/>
                 </Property>
@@ -297,6 +302,7 @@
             </Component>
             <Component class="javax.swing.JLabel" name="alamatLabel">
               <Properties>
+                <Property name="displayedMnemonic" type="int" value="76"/>
                 <Property name="labelFor" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
                   <ComponentRef name="alamatArea"/>
                 </Property>
@@ -330,6 +336,7 @@
             </Container>
             <Component class="javax.swing.JCheckBox" name="setujuCheck">
               <Properties>
+                <Property name="mnemonic" type="int" value="84"/>
                 <Property name="text" type="java.lang.String" value="Setuju dengan tata tertib perpustakaan"/>
               </Properties>
               <Events>

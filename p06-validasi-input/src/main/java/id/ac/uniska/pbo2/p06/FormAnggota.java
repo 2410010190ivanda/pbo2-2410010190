@@ -284,6 +284,7 @@ setLocationRelativeTo(null);
         gridBagConstraints.insets = new java.awt.Insets(4, 0, 4, 0);
         formPanel.add(jScrollPane1, gridBagConstraints);
 
+        setujuCheck.setMnemonic('T');
         setujuCheck.setText("Setuju dengan tata tertib perpustakaan");
         setujuCheck.addActionListener(this::setujuCheckActionPerformed);
         gridBagConstraints = new java.awt.GridBagConstraints();

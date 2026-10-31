@@ -164,6 +164,7 @@ setLocationRelativeTo(null);
         gridBagConstraints.insets = new java.awt.Insets(6, 6, 6, 12);
         formPanel.add(npmLabel, gridBagConstraints);
 
+        npmField.setToolTipText("isi NPM dengan 10 digit");
         npmField.addFocusListener(new java.awt.event.FocusAdapter() {
             public void focusLost(java.awt.event.FocusEvent evt) {
                 npmFieldFocusLost(evt);
@@ -530,11 +531,12 @@ return kesalahan == null;
 private void daftar() {
 // Semua isian diperiksa agar pengguna melihat seluruh kesalahan sekaligus
 List<JComponent> salah = new ArrayList<>();
-if (!periksaNpm()) {
-salah.add(npmField);
-}
+
 if (!periksaNama()) {
 salah.add(namaField);
+}
+if (!periksaNpm()) {
+salah.add(npmField);
 }
 if (!periksaProdi()) {
 salah.add(prodiCombo);

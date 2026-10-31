@@ -114,6 +114,7 @@ setLocationRelativeTo(null);
         formPanel.setBorder(javax.swing.BorderFactory.createEmptyBorder(8, 16, 8, 16));
         formPanel.setLayout(new java.awt.GridBagLayout());
 
+        namaLabel.setDisplayedMnemonic('N');
         namaLabel.setLabelFor(namaField);
         namaLabel.setText("Nama lengkap");
         gridBagConstraints = new java.awt.GridBagConstraints();
@@ -137,6 +138,7 @@ setLocationRelativeTo(null);
         gridBagConstraints.insets = new java.awt.Insets(4, 0, 4, 0);
         formPanel.add(namaField, gridBagConstraints);
 
+        npmLabel.setDisplayedMnemonic('P');
         npmLabel.setLabelFor(npmField);
         npmLabel.setText("NPM");
         gridBagConstraints = new java.awt.GridBagConstraints();
@@ -146,6 +148,7 @@ setLocationRelativeTo(null);
         gridBagConstraints.insets = new java.awt.Insets(6, 6, 6, 12);
         formPanel.add(npmLabel, gridBagConstraints);
 
+        npmField.setToolTipText("");
         npmField.addFocusListener(new java.awt.event.FocusAdapter() {
             public void focusLost(java.awt.event.FocusEvent evt) {
                 npmFieldFocusLost(evt);
@@ -164,6 +167,7 @@ setLocationRelativeTo(null);
         gridBagConstraints.insets = new java.awt.Insets(4, 0, 4, 0);
         formPanel.add(npmField, gridBagConstraints);
 
+        jLabel1.setDisplayedMnemonic('R');
         jLabel1.setLabelFor(prodiCombo);
         jLabel1.setText("Program studi");
         gridBagConstraints = new java.awt.GridBagConstraints();
@@ -187,6 +191,7 @@ setLocationRelativeTo(null);
         gridBagConstraints.insets = new java.awt.Insets(4, 0, 4, 0);
         formPanel.add(prodiCombo, gridBagConstraints);
 
+        jenisLabel.setDisplayedMnemonic('J');
         jenisLabel.setText("Jenis anggota");
         gridBagConstraints = new java.awt.GridBagConstraints();
         gridBagConstraints.gridx = 0;
@@ -213,6 +218,7 @@ setLocationRelativeTo(null);
         gridBagConstraints.insets = new java.awt.Insets(6, 6, 6, 12);
         formPanel.add(kontakLabel, gridBagConstraints);
 
+        emailLabel.setDisplayedMnemonic('E');
         emailLabel.setLabelFor(emailField);
         emailLabel.setText("Email");
         gridBagConstraints = new java.awt.GridBagConstraints();
@@ -234,6 +240,7 @@ setLocationRelativeTo(null);
         gridBagConstraints.insets = new java.awt.Insets(4, 0, 4, 0);
         formPanel.add(emailField, gridBagConstraints);
 
+        nomorLabel.setDisplayedMnemonic('H');
         nomorLabel.setLabelFor(hpField);
         nomorLabel.setText("Nomor HP");
         gridBagConstraints = new java.awt.GridBagConstraints();
@@ -255,6 +262,7 @@ setLocationRelativeTo(null);
         gridBagConstraints.insets = new java.awt.Insets(4, 0, 4, 0);
         formPanel.add(hpField, gridBagConstraints);
 
+        alamatLabel.setDisplayedMnemonic('T');
         alamatLabel.setLabelFor(alamatArea);
         alamatLabel.setText("Alamat");
         gridBagConstraints = new java.awt.GridBagConstraints();

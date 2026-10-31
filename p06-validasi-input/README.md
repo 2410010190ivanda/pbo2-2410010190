@@ -14,4 +14,8 @@
 JAWAB :
 
 1. Huruf tidak dapat dimasukkan, karena NPM hanya menerima angka.
-2. 
+2. ketika melakukan tab
+3. karena isian nama akan melakukan validasi hanya ketika mengklik tombol daftar
+4. npmField, karena pada method daftar() melakukan pengecekan secara berurutan
+5. isian nama,DisplayedMnemonic (N)
+6. masih ada, karena  ketika memilih no tidakada event menghapus data yang telah diisi

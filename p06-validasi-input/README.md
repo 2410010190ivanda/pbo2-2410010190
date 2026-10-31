@@ -19,9 +19,10 @@ JAWAB :
 2. ketika melakukan tab
 3. karena isian nama akan melakukan validasi hanya ketika mengklik tombol daftar
 4. npmField, karena pada method daftar() melakukan pengecekan secara berurutan
-5. isian nama,DisplayedMnemonic (N)
+5. isian nama,DisplayedMnemonic (N) pada label NPM yang tersambung dengan isian
 6. masih ada, karena  ketika memilih no tidakada event menghapus data yang telah diisi
 
 **Lembar Peer Review Heuristik**
 
-<img width="528" height="319" alt="image" src="https://github.com/user-attachments/assets/0bf3f919-501b-4887-9156-ab6b6d27f1a2" />
+<img width="527" height="321" alt="image" src="https://github.com/user-attachments/assets/23a1bcd5-6a37-4301-8780-4cc267e5bb09" />
+

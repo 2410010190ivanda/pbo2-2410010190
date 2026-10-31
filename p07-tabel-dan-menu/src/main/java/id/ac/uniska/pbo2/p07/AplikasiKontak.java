@@ -157,6 +157,7 @@ private final TableRowSorter<KontakTableModel> sorter = new TableRowSorter<>(mod
 
         hapusItem.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_D, java.awt.event.InputEvent.CTRL_DOWN_MASK));
         hapusItem.setText("Hapus");
+        hapusItem.addActionListener(this::hapusItemActionPerformed);
         KontakMenu.add(hapusItem);
 
         jMenuBar.add(KontakMenu);
@@ -222,6 +223,10 @@ private final TableRowSorter<KontakTableModel> sorter = new TableRowSorter<>(mod
             ubah();
         }
     }//GEN-LAST:event_kontakTableMouseClicked
+
+    private void hapusItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_hapusItemActionPerformed
+        hapus();
+    }//GEN-LAST:event_hapusItemActionPerformed
 
     private void isiContoh() {
         model.tambah(new Kontak("Siti Rahmah", "081234567890", "siti@contoh.com",

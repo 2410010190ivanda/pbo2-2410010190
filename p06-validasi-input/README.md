@@ -1,6 +1,8 @@
 **TANGKAPAN LAYAR FORM PADA BAGIAN KESALAHAN**
 <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/5bc0ed80-d861-4107-b876-383676c98516" />
+
 **TANGKAPAN LAYAR PADA BAGIAN NAVIGATOR**
+
 <img width="288" height="441" alt="image" src="https://github.com/user-attachments/assets/9eb57670-5747-4804-8759-97f18251df32" />
 
 **EKSPERIMEN PRAKTIKUM 4**
@@ -19,3 +21,7 @@ JAWAB :
 4. npmField, karena pada method daftar() melakukan pengecekan secara berurutan
 5. isian nama,DisplayedMnemonic (N)
 6. masih ada, karena  ketika memilih no tidakada event menghapus data yang telah diisi
+
+**Lembar Peer Review Heuristik**
+
+<img width="528" height="319" alt="image" src="https://github.com/user-attachments/assets/0bf3f919-501b-4887-9156-ab6b6d27f1a2" />

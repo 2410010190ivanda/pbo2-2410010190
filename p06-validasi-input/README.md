@@ -24,5 +24,9 @@ JAWAB :
 
 **Lembar Peer Review Heuristik**
 
-<img width="527" height="321" alt="image" src="https://github.com/user-attachments/assets/23a1bcd5-6a37-4301-8780-4cc267e5bb09" />
+Nama pemilik Form : Muhammad Ivanda Stevhany
+Nama peninjau : Nur Adli rosyadan
+
+<img width="960" height="1280" alt="tabel heuristik" src="https://github.com/user-attachments/assets/a638f3de-d749-431e-a0c7-356d60775c10" />
+
 

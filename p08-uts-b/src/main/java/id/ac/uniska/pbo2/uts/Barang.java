@@ -8,11 +8,12 @@ package id.ac.uniska.pbo2.uts;
  *
  * @author ivanda
  */
+
 public record Barang(String nama, int harga, int jumlah, Kategori kategori) {
 
     public int hitungSubtotal() {
         return harga * jumlah;
     }
-
+    
 }
 

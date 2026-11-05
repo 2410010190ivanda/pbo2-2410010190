@@ -24,6 +24,10 @@ public class DaftarBelanja extends javax.swing.JFrame {
      */
     public DaftarBelanja() {
         initComponents();
+            daftarTable.setModel(barangTableModel);
+
+    judulLabel.putClientProperty("FlatLaf.styleClass", "h2");
+        
         judulLabel.putClientProperty("FlatLaf.styleClass", "h2");
 
 keteranganLabel.putClientProperty("FlatLaf.style", "foreground: $Label.disabledForeground");
